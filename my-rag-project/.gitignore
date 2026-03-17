@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+data/local_vectors.npz
+data/local_metadata.jsonl

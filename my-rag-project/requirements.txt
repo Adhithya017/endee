@@ -1,0 +1,6 @@
+flask
+streamlit
+groq
+sentence-transformers
+numpy
+python-dotenv
