@@ -89,6 +89,18 @@ Support recommendation, similarity matching, and nearest-neighbor retrieval work
 - **CPU-targeted builds** for AVX2, AVX512, NEON, and SVE2 deployments.
 - **Docker deployment options** for local and server environments.
 
+## 📸 Screenshots
+
+### Main Interface
+<img width="1911" height="1073" alt="Screenshot 2026-03-17 220954" src="https://github.com/user-attachments/assets/ea43699a-2b5f-444a-8cbe-603683dfa6b2" />
+
+
+### Sample Output
+<img width="1906" height="1071" alt="Screenshot 2026-03-17 221113" src="https://github.com/user-attachments/assets/a2736190-4e7b-4b43-a95f-83f4d74081ed" />
+
+<img width="1910" height="1069" alt="Screenshot 2026-03-17 221135" src="https://github.com/user-attachments/assets/5d9b82ef-b84b-42fe-aa3a-1b7a8a0769be" />
+
+
 ## API and Clients
 
 Endee exposes an HTTP API for managing indexes and serving retrieval workloads. The current repo documentation and examples focus on running the server directly and calling its API endpoints.
